@@ -39,6 +39,11 @@
       "components": [
         {
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "footer1-2",
           "_params": {
             "paddingTop": 2,
@@ -52,12 +57,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": ".",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          }
+          "text": "."
         },
         {
           "_styles": {
