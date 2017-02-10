@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#f3c649",
+        "secondaryColor": "#7c706b",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 26,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": ""
@@ -38,141 +38,102 @@
       },
       "components": [
         {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            }
-          },
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "."
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            "P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-h",
+          "_anchor": "content5-o",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a.gif",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "showTitle": true,
             "showCaption": true
           },
           "title": "BACKGROUND IMAGE",
-          "caption": "<p>Background image with solid color overlay and parallaxსდფდსფდსდფსდფსდფსდს effect. Deსდფსდფსდფსდფდსფსდფსდფსდფსდფსდფდსფvelop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
-          "_inherit": "header1",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#000",
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-i",
+          "_name": "content5",
+          "_anchor": "content5-l",
           "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
             "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showCaption": true
           },
-          "title": "Skjhhhhhhhпроდjhgჰჯგფჰფjhgjhjhg კჯჰკჯჰკჯჰკჯჰკჯჰკჯჰკჯჰკჯჰკჯჰკჯჰბნმნბმნბ",
-          "text": "Full screen intro withჯჰკჯჰკჯჰკჯჰკჯჰკჯჰound.<br>Buttons, text and title are aligned to the left.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "title": "BACKGROUND IMAGE",
+          "caption": "<p>Background image with solid color overlay and parallax effect. Develop fully responsive, mobile-ready websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.</p>"
         },
         {
-          "_inherit": "header1",
+          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#9c9a9a"
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-j",
+          "_name": "content8",
+          "_anchor": "content8-n",
           "_params": {
-            "parallax": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
+            "bgVideoRadio": true,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
             "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "showCaption": true
           },
-          "title": "SOLID COLკჯსდფჰOR სდფსფსდფსდფINTRO",
-          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.სდფდსფდსფ სდფსდფსლკჯდჰგფკსდჯჰგკფჯსდჰგჯკსდფჯლდსკფჯლსდკფჯლსდკჯფლკსდჯფ",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         }
       ]
     }

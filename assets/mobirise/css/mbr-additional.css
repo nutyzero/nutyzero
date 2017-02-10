@@ -1,10 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -114,8 +110,8 @@ h6,
   border-color: #a07e49 !important;
 }
 .btn-secondary {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #7c706b;
+  border-color: #7c706b;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -124,14 +120,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #534b48;
+  border-color: #534b48;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #534b48 !important;
+  border-color: #534b48 !important;
 }
 .btn-info {
   background-color: #7e9b9f;
@@ -235,8 +231,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #453f3c;
+  color: #453f3c;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -244,14 +240,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #7c706b;
+  border-color: #7c706b;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #7c706b !important;
+  border-color: #7c706b !important;
 }
 .btn-info-outline {
   background: none;
@@ -415,27 +411,16 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#footer1-2 P {
-  text-align: right;
-}
-#content5-h .mbr-section-title,
-#content5-h p {
+#content5-o .mbr-section-title,
+#content5-o p {
   color: #fff;
 }
-#content5-h P {
-  font-family: 'Titillium Web', sans-serif;
+#content5-l .mbr-section-title,
+#content5-l p {
+  color: #fff;
 }
-#header5-i .mbr-section-title {
-  color: #000;
-  text-align: center;
-  font-family: 'Oxygen', sans-serif;
-}
-#header5-i .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-j .mbr-section-title {
-  color: #000;
-}
-#header5-j .mbr-section-lead {
-  color: #9c9a9a;
+#content8-n .mbr-section-title,
+#content8-n p {
+  text-align: right;
+  color: #fff;
 }
