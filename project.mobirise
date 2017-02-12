@@ -85,7 +85,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slide-1-2000x1391.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/slide%201-2000x1391.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -98,7 +98,7 @@
             "contentAlign": "left",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "title": "SOLID COLOR INTRO",
           "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
