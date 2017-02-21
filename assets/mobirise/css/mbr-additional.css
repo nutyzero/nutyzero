@@ -84,7 +84,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #f3c649 !important;
+  background-color: #eb6b56 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -170,8 +170,8 @@ h6,
   border-color: #6a8153 !important;
 }
 .btn-warning {
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #eb6b56;
+  border-color: #eb6b56;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -180,14 +180,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #e1a90f;
-  border-color: #e1a90f;
+  background-color: #db351a;
+  border-color: #db351a;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #e1a90f !important;
-  border-color: #e1a90f !important;
+  background-color: #db351a !important;
+  border-color: #db351a !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -291,8 +291,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #c9970d;
-  color: #c9970d;
+  border-color: #c43017;
+  color: #c43017;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -300,14 +300,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #f3c649;
-  border-color: #f3c649;
+  background-color: #eb6b56;
+  border-color: #eb6b56;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #f3c649 !important;
-  border-color: #f3c649 !important;
+  background-color: #eb6b56 !important;
+  border-color: #eb6b56 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -339,7 +339,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #f3c649 !important;
+  color: #eb6b56 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -351,7 +351,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #f3c649;
+  background-color: #eb6b56;
 }
 .alert-danger {
   background-color: #f28281;
@@ -411,11 +411,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header5-2 .mbr-section-title {
-  color: #b8312f;
-  text-align: center;
-}
-#header5-2 .mbr-section-lead {
-  color: #9c9a9a;
-  text-align: center;
+#image1-6 DIV {
+  color: #e25041;
 }
