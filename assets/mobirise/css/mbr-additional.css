@@ -415,7 +415,9 @@ h6,
 #header3-2 .mbr-section-subtitle {
   text-align: center;
 }
-#content5-5 .mbr-section-title,
-#content5-5 p {
-  color: #fff;
+#header5-6 .mbr-section-title {
+  color: #000;
+}
+#header5-6 .mbr-section-lead {
+  color: #9c9a9a;
 }
