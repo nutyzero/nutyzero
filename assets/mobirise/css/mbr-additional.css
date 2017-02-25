@@ -1,6 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
 
 
 
@@ -411,24 +415,17 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-1 .mbr-section-title {
-  color: #d14841;
+#slider-1 H2 {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
 }
-#header1-1 .mbr-section-lead {
-  color: #b8312f;
+#slider-1 SPAN {
+  font-family: 'Lora', serif;
 }
-#header1-1 .mbr-section-title SPAN {
-  color: #f7da64;
+#slider-1 I {
+  font-family: 'Lora', serif;
 }
-#header5-1 .mbr-section-title {
-  color: #000;
-}
-#header5-1 .mbr-section-lead {
-  color: #9c9a9a;
-}
-#header5-3 .mbr-section-title {
-  color: #000;
-}
-#header5-3 .mbr-section-lead {
-  color: #9c9a9a;
+#header3-2 .mbr-section-title,
+#header3-2 .mbr-section-subtitle {
+  text-align: center;
 }
